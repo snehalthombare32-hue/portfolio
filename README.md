@@ -5,8 +5,14 @@ Welcome to my personal portfolio website.
 
 🌐 **[View My Portfolio]
 
- https://snehalthombare32-hue.github.io/portfolio/
+ 
+<p align="center">
 
+<a href="https://snehalthombare32-hue.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-315DFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</p>
 
 ## About Me
 
